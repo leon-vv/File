@@ -1,0 +1,7 @@
+package file
+
+pkgs = ferryjs
+
+modules = File
+
+objs = runtime.js
